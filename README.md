@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @brian-mokaya
-- 👀 I’m interested in Moabile development
+- 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @__mokaya__ on X
 - 😄 Pronouns: him/his/he
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Backend developer exploring multiple technologies—Spring Boot, Node.js, Django, and Firebase—while diving into machine learning. Passionate about building scalable systems and planning to explore blockchain and crypto. Constantly learning, innovating, and pushing the limits of tech! 
 
 <!---
 brian-mokaya/brian-mokaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
