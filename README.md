@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-**I’m Brian Mokaya** — a passionate and purpose-driven software developer currently pursuing a degree in **Computer Science**. I’m deeply committed to using technology as a force for good — solving real-world problems, building meaningful digital solutions, and uplifting communities, especially in underrepresented regions like **Africa**.
+**I’m Brian Mokaya** — a passionate and purpose-driven software developer currently pursuing a degree in **Computer Science**. I’m deeply committed to using technology as a force for good, solving real-world problems, building meaningful digital solutions, and uplifting communities, especially in underrepresented regions like **Africa**.
 
 
 
