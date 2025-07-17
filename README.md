@@ -14,7 +14,7 @@
 
 ## 🌟 About Me
 
-**I'm Brian Mokaya** — a passionate and purpose-driven software developer currently pursuing a degree in **Computer Science**. I'm deeply committed to using technology as a force for good, solving real-world problems, building meaningful digital solutions, and uplifting communities, especially in underrepresented regions like **Africa**.
+I'm a passionate and purpose-driven software developer currently pursuing a degree in **Computer Science**. I'm deeply committed to using technology as a force for good, solving real-world problems, building meaningful digital solutions, and uplifting communities, especially in underrepresented regions like **Africa**.
 - 📫 How to reach me: **brianmokaya507@gmail.com**
 
 ---
@@ -93,7 +93,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-mokaya-313821285/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-mokaya-97b804364/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/__mokaya__)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mokaya)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mo.ka.ya/)
