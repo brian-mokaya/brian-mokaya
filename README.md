@@ -24,12 +24,10 @@ I'm a passionate and purpose-driven software developer currently pursuing a degr
 ### 🔹 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
 ### 🔹 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -37,7 +35,6 @@ I'm a passionate and purpose-driven software developer currently pursuing a degr
 ### 🔹 Backend & Frameworks
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
 ### 🔹 Databases
@@ -47,8 +44,6 @@ I'm a passionate and purpose-driven software developer currently pursuing a degr
 
 ### 🔹 DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 ### 🔹 Tools
@@ -118,6 +113,10 @@ I'm a passionate and purpose-driven software developer currently pursuing a degr
 ## ☕ Support My Work
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mokaya)
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/brian-mokaya/count.svg" alt="Visitor Count"/>
-</p>
+---
+
+## 💬 Random Developer Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
