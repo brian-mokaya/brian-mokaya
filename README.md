@@ -13,13 +13,9 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Pursuing Computer Science with focus on **AI and Cloud Technologies**
-- 🌍 Passionate about building **solutions for African markets**
-- 🔭 Currently working on **AI-powered tools for small businesses**
-- 🌱 Learning **AWS Cloud Architecture & Machine Learning**
-- 💡 Interested in **Open Source, EdTech, and HealthTech**
+
+**I’m Brian Mokaya** — a passionate and purpose-driven software developer currently pursuing a degree in **Computer Science**. I’m deeply committed to using technology as a force for good, solving real-world problems, building meaningful digital solutions, and uplifting communities, especially in underrepresented regions like **Africa**
 - 📫 How to reach me: **brianmokaya507@gmail.com**
-- ⚡ Fun fact: **I host a tech podcast in my free time**
 
 ---
 
