@@ -14,7 +14,7 @@
 
 ## 🌟 About Me
 
-**I’m Brian Mokaya** — a passionate and purpose-driven software developer currently pursuing a degree in **Computer Science**. I’m deeply committed to using technology as a force for good, solving real-world problems, building meaningful digital solutions, and uplifting communities, especially in underrepresented regions like **Africa**
+**I'm Brian Mokaya** — a passionate and purpose-driven software developer currently pursuing a degree in **Computer Science**. I'm deeply committed to using technology as a force for good, solving real-world problems, building meaningful digital solutions, and uplifting communities, especially in underrepresented regions like **Africa**.
 - 📫 How to reach me: **brianmokaya507@gmail.com**
 
 ---
@@ -62,16 +62,30 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <!-- Main stats card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brian-mokaya&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  
+  <!-- Top languages card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-mokaya&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages"/>
+  
+  <!-- Streak stats card -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brian-mokaya&theme=github-dark" alt="GitHub Streak"/>
 </div>
 
+<!-- Additional statistics cards -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brian-mokaya&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brian-mokaya&theme=github_dark" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brian-mokaya&theme=github_dark" height="180em" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brian-mokaya&theme=github_dark" height="180em" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brian-mokaya&theme=github_dark" height="180em" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brian-mokaya&theme=github_dark" height="180em" alt="Profile Details"/>
 </div>
 
 <div align="center">
+  <!-- GitHub trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=brian-mokaya&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  
+  <!-- Activity graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=brian-mokaya&theme=github-dark" alt="GitHub Activity Graph"/>
 </div>
 
