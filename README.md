@@ -19,6 +19,8 @@ I'm a passionate and purpose-driven software developer currently pursuing a degr
 
 ---
 
+![Description of GIF](https://direct-url-to-your-gif.gif)
+
 ## 🛠️ Tech Stack
 
 ### 🔹 Programming Languages
