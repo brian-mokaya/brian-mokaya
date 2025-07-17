@@ -96,11 +96,12 @@ I'm a passionate and purpose-driven software developer currently pursuing a degr
 
 ---
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 1. **[AgriTech Dashboard](https://github.com/brian-mokaya/agritech-dashboard)** - Farm management system for African smallholder farmers
 2. **[EduConnect Africa](https://github.com/brian-mokaya/educonnect)** - E-learning platform with localized content
 3. **[HealthAI Diagnostic](https://github.com/brian-mokaya/healthai)** - AI-powered tool for rural healthcare workers
+-->
 
 ---
 
