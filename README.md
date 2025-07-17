@@ -19,7 +19,7 @@ I'm a passionate and purpose-driven software developer currently pursuing a degr
 
 ---
 
-![Description of GIF](https://direct-url-to-your-gif.gif)
+![GIF](https://github.com/brian-mokaya/brian-mokaya/blob/main/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 
 ## 🛠️ Tech Stack
 
