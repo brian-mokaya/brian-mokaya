@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Brian Mokaya</h1>
-<h3 align="center">Computer Science Student | Full-Stack Developer | Tech for Good Advocate</h3>
+<h3 align="center">Computer Science Student | Backend Developer | Tech for Good Advocate</h3>
 
 <p align="center">
   <a href="https://twitter.com/__mokaya__">
