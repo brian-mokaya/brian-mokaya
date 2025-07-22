@@ -76,6 +76,9 @@ I'm a passionate and purpose-driven software developer currently pursuing a degr
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brian-mokaya&theme=github_dark" height="180em" alt="Repos Per Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brian-mokaya&theme=github_dark" height="180em" alt="Productive Time"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brian-mokaya&theme=github_dark" height="180em" alt="Profile Details"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=brian-mokaya&theme=github-dark" height="180em" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <div align="center">
