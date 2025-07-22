@@ -14,7 +14,8 @@
 
 ## 🌟 About Me
 
-I'm a passionate and purpose-driven software developer currently pursuing a degree in **Computer Science**. I'm deeply committed to using technology as a force for good, solving real-world problems, building meaningful digital solutions, and uplifting communities, especially in underrepresented regions like **Africa**.
+I'm a passionate and purpose-driven software developer currently pursuing a degree in **Computer Science**. I'm deeply committed to using technology as a force for good—solving real-world problems, building meaningful digital solutions, and uplifting communities, especially in underrepresented regions like **Africa**.
+
 - 📫 How to reach me: **brianmokaya507@gmail.com**
 
 ---
@@ -65,10 +66,10 @@ I'm a passionate and purpose-driven software developer currently pursuing a degr
   <!-- Top languages card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-mokaya&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages"/>
   
-<!-- Streak stats card -->
-<a href="https://git.io/streak-stats">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=brian-mokaya&theme=github-dark" alt="GitHub Streak"/>
-</a>
+  <!-- Fixed streak stats card -->
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=brian-mokaya&theme=github-dark" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <!-- Additional statistics cards -->
@@ -78,9 +79,6 @@ I'm a passionate and purpose-driven software developer currently pursuing a degr
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brian-mokaya&theme=github_dark" height="180em" alt="Repos Per Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brian-mokaya&theme=github_dark" height="180em" alt="Productive Time"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brian-mokaya&theme=github_dark" height="180em" alt="Profile Details"/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=brian-mokaya&theme=github-dark" height="180em" alt="GitHub Streak"/>
-  </a>
 </div>
 
 <div align="center">
@@ -95,10 +93,6 @@ I'm a passionate and purpose-driven software developer currently pursuing a degr
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-mokaya-97b804364/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/__mokaya__)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mokaya)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mo.ka.ya/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianmokaya507@gmail.com)
 
 ---
@@ -113,18 +107,18 @@ I'm a passionate and purpose-driven software developer currently pursuing a degr
 ---
 
 ## ✍️ Developer Thoughts
-> *"Technology should solve real problems for real people - especially in underserved communities."*  
-> *"The best way to learn is by building things that matter."*
+
+> "Technology should solve real problems for real people — especially in underserved communities."  
+> "The best way to learn is by building things that matter."
 
 ---
 
 ## ☕ Support My Work
+
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mokaya)
 
 ---
 
 ## 💬 Random Developer Quote
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
