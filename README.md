@@ -65,8 +65,10 @@ I'm a passionate and purpose-driven software developer currently pursuing a degr
   <!-- Top languages card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-mokaya&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages"/>
   
-  <!-- Streak stats card -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brian-mokaya&theme=github-dark" alt="GitHub Streak"/>
+<!-- Streak stats card -->
+<a href="https://git.io/streak-stats">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=brian-mokaya&theme=github-dark" alt="GitHub Streak"/>
+</a>
 </div>
 
 <!-- Additional statistics cards -->
