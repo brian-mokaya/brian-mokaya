@@ -94,6 +94,9 @@ I'm a passionate and purpose-driven software developer currently pursuing a degr
 ## 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianmokaya507@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-mokaya-97b804364/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mo.ka.ya/)
+
 
 ---
 
