@@ -60,13 +60,11 @@ I'm a passionate and purpose-driven software developer currently pursuing a degr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brian-mokaya&theme=github_dark" alt="GitHub Profile Stats"/>
+  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/brian-mokaya?cardType=level&theme=tokyonight" alt="Brian Mokaya's Awesome GitHub Stats"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-mokaya&layout=pie&theme=github_dark" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brian-mokaya&theme=github_dark" alt="Repos Per Language"/>
   
-  <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=brian-mokaya&theme=github-dark" alt="GitHub Streak"/>
-  </a>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brian-mokaya&theme=github_dark&utcOffset=3" alt="Productive Time"/>
 </div>
 
 <!-- Additional statistics cards -->
