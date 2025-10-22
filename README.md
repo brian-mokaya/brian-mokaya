@@ -68,8 +68,7 @@ I'm a passionate and purpose-driven software developer currently pursuing a degr
   
   <!-- Fixed streak stats card -->
   <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/brian-mokaya?cardType=level&theme=tokyonight" alt="Brian Mokaya's Awesome GitHub Stats"/>
-  </a>
+<img height="180em" src="https://v0-git-hub-streak-score-card-phi.vercel.app/api?user=brian-mokaya&theme=Dark&type=svg" alt="Brian Mokaya's GitHub Streak Card"/>  </a>
 </div>
 
 <!-- Additional statistics cards -->
