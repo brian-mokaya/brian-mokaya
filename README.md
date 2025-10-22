@@ -14,114 +14,73 @@
 
 ## 🌟 About Me
 
-I'm a passionate and purpose-driven software developer currently pursuing a degree in **Computer Science**. I'm deeply committed to using technology as a force for good—solving real-world problems, building meaningful digital solutions, and uplifting communities, especially in underrepresented regions like **Africa**.
+I'm a passionate Computer Science student and backend developer driven by a single mission: **using technology as a force for good**. 
 
-- 📫 How to reach me: **brianmokaya507@gmail.com**
+I am deeply committed to solving real-world problems and building meaningful digital solutions to uplift communities, especially in underrepresented regions like **Africa**. My developer philosophy is simple:
 
----
+> "Technology should solve real problems for real people — especially in underserved communities."
 
-![GIF](https://github.com/brian-mokaya/brian-mokaya/blob/main/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
-
-## 🛠️ Tech Stack
-
-### 🔹 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-
-### 🔹 Frontend Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-### 🔹 Backend & Frameworks
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-
-### 🔹 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-
-### 🔹 DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-
-### 🔹 Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+- 📫 You can reach me at: **brianmokaya507@gmail.com**
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+Here are some of the projects I'm passionate about.
+
+* **[AgriTech Dashboard](https://github.com/brian-mokaya/agritech-dashboard)**
+    * A farm management system designed to help African smallholder farmers increase efficiency and yield.
+* **[EduConnect Africa](https://github.com/brian-mokaya/educonnect)**
+    * An e-learning platform focused on providing accessible, localized educational content for students.
+* **[HealthAI Diagnostic](https://github.com/brian-mokaya/healthai)**
+    * An AI-powered diagnostic tool prototype aimed at assisting rural healthcare workers with preliminary diagnoses.
+
+---
+
+## 🛠️ My Tech Stack
+
+I'm always learning, but here are the primary tools and technologies I work with:
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) |
+| **Backend** | ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) |
+| **Frontend** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
+| **Tools** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white) |
+
+---
+
+## 📊 My GitHub Stats
 
 <div align="center">
-  <!-- Main stats card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brian-mokaya&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  
-  <!-- Top languages card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-mokaya&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages"/>
-  
-  <!-- Fixed streak stats card -->
   <a href="https://git.io/streak-stats">
     <img height="180em" src="https://streak-stats.demolab.com/?user=brian-mokaya&theme=github-dark" alt="GitHub Streak"/>
   </a>
 </div>
 
-<!-- Additional statistics cards -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brian-mokaya&theme=github_dark" height="180em" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brian-mokaya&theme=github_dark" height="180em" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brian-mokaya&theme=github_dark" height="180em" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brian-mokaya&theme=github_dark" height="180em" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brian-mokaya&theme=github_dark" height="180em" alt="Profile Details"/>
-</div>
-
-<div align="center">
-  <!-- GitHub trophies -->
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=brian-mokaya&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-  
-  <!-- Activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brian-mokaya&theme=github-dark" alt="GitHub Activity Graph"/>
-</div>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect & Support
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianmokaya507@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-mokaya-97b804364/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mo.ka.ya/)
-
-
----
-
-<!-- ## 🚀 Featured Projects
-
-1. **[AgriTech Dashboard](https://github.com/brian-mokaya/agritech-dashboard)** - Farm management system for African smallholder farmers
-2. **[EduConnect Africa](https://github.com/brian-mokaya/educonnect)** - E-learning platform with localized content
-3. **[HealthAI Diagnostic](https://github.com/brian-mokaya/healthai)** - AI-powered tool for rural healthcare workers
--->
-
----
-
-## ✍️ Developer Thoughts
-
-> "Technology should solve real problems for real people — especially in underserved communities."  
-> "The best way to learn is by building things that matter."
-
----
-
-## ☕ Support My Work
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mokaya)
-
----
-
-## 💬 Random Developer Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <a href="mailto:brianmokaya507@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/brian-mokaya-97b804364/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/mo.ka.ya/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://buymeacoffee.com/mokaya">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+</p>
