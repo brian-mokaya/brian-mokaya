@@ -12,7 +12,7 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 I'm a passionate and purpose-driven software developer currently pursuing a degree in **Computer Science**. I'm deeply committed to using technology as a force for good—solving real-world problems, building meaningful digital solutions, and uplifting communities, especially in underrepresented regions like **Africa**.
 
@@ -57,14 +57,19 @@ I'm a passionate and purpose-driven software developer currently pursuing a degr
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/brian-mokaya?cardType=level&theme=tokyonight" alt="Brian Mokaya's Awesome GitHub Stats"/>
+  <!-- Main stats card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brian-mokaya&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brian-mokaya&theme=github_dark" alt="Repos Per Language"/>
+  <!-- Top languages card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-mokaya&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages"/>
   
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brian-mokaya&theme=github_dark&utcOffset=3" alt="Productive Time"/>
+  <!-- Fixed streak stats card -->
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=brian-mokaya&theme=github-dark" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <!-- Additional statistics cards -->
@@ -86,31 +91,29 @@ I'm a passionate and purpose-driven software developer currently pursuing a degr
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianmokaya507@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-mokaya-97b804364/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mo.ka.ya/)
 
 
----
-
 
 ---
 
-## ✍️ Developer Thoughts
+##  Developer Thoughts
 
 > "Technology should solve real problems for real people — especially in underserved communities."  
 > "The best way to learn is by building things that matter."
 
 ---
 
-## ☕ Support My Work
+##  Support My Work
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mokaya)
 
 ---
 
-## 💬 Random Developer Quote
+##  Random Developer Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
